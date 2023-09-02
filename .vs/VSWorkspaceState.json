@@ -1,0 +1,21 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "本地计算机": [
+      "..\\..\\..\\Users\\DELL\\CMakeBuilds\\fd479428-c56f-4160-a0e2-1d72a81574f0\\build\\x86-Release",
+      "..\\..\\..\\Users\\DELL\\CMakeBuilds\\fd479428-c56f-4160-a0e2-1d72a81574f0\\install\\x86-Release",
+      "out\\build\\x64-Release",
+      "out\\install\\x64-Release"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\Impl",
+    "\\include",
+    "\\include\\nlohmann",
+    "\\include\\public",
+    "\\out",
+    "\\Release"
+  ],
+  "SelectedNode": "\\Impl\\autodrive.cpp",
+  "PreviewInSolutionExplorer": false
+}
