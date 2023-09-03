@@ -67,6 +67,4 @@ void PIDController::Print() {
     std::cout<<"targetspeed=="<<this->setpoint<<endl;
 }
 
-
-
 #endif 

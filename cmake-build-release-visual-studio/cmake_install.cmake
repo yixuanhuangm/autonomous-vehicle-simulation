@@ -1,4 +1,4 @@
-# Install script for directory: E:/SelfDrive/c++
+# Install script for directory: E:/OneDrive - whut.edu.cn/Repositories/intelligent-internet-car
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/SelfDrive/c++/cmake-build-release-visual-studio/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/OneDrive - whut.edu.cn/Repositories/intelligent-internet-car/cmake-build-release-visual-studio/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

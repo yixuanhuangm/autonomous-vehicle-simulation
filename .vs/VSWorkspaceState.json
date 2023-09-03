@@ -5,6 +5,12 @@
       "..\\..\\..\\Users\\DELL\\CMakeBuilds\\fd479428-c56f-4160-a0e2-1d72a81574f0\\install\\x86-Release",
       "out\\build\\x64-Release",
       "out\\install\\x64-Release"
+    ],
+    "Local Machine": [
+      "C:\\Users\\Silence_JingMo\\CMakeBuilds\\9cd8079c-b128-4608-8583-b38bad95d774\\build\\x86-Release",
+      "C:\\Users\\Silence_JingMo\\CMakeBuilds\\9cd8079c-b128-4608-8583-b38bad95d774\\install\\x86-Release",
+      "out\\build\\x64-Release",
+      "out\\install\\x64-Release"
     ]
   },
   "ExpandedNodes": [
@@ -16,6 +22,5 @@
     "\\out",
     "\\Release"
   ],
-  "SelectedNode": "\\Impl\\autodrive.cpp",
   "PreviewInSolutionExplorer": false
 }

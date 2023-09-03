@@ -1,4 +1,3 @@
 # ninja log v5
-1	966	7151528772042288	CMakeFiles/AutoDrive.dir/Impl/autodrive.cpp.obj	cbed7d042d1cdaac
-970	2200	7151528780634876	E:/SelfDrive/c++/Release/AutoDrive.exe	4973df8ba543d0a3
-1	206	7151529561053382	build.ninja	aebaddd6610f9e66
+3	646	7153470699762593	CMakeFiles/AutoDrive.dir/Impl/autodrive.cpp.obj	bfa4e8bb9e294d45
+1	206	7154510032525412	build.ninja	aebaddd6610f9e66

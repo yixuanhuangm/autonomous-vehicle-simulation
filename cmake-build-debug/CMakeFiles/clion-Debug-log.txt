@@ -1,1 +1,0 @@
-"E:\JetBrains\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "E:\OneDrive - whut.edu.cn\Intelligent-Internet-Car\c++（9.1晚）\c++" -B "E:\OneDrive - whut.edu.cn\Intelligent-Internet-Car\c++（9.1晚）\c++\cmake-build-debug"
