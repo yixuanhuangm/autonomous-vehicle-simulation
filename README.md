@@ -42,4 +42,4 @@ Contributions are welcome! If you want to help improve the project or contribute
 ## Acknowledgements
 
 - **China College Engineering Practice and Innovation Competition (CCEI 2024)** for the opportunity to participate and showcase our project.
-- **Our Team**: Yixuan Huang, Zhen Zhang.
+- **Our Team**: Yixuan Huang, Zhen Zhang, Wentao Huang, Zeqi Yao.
