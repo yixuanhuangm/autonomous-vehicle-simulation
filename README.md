@@ -1,8 +1,8 @@
-# Autonomous-Vehicle-Simulation-CCEI-2024
+# Autonomous Vehicle Simulation CCEI 2023
 
 ## Project Overview
 
-This project is the outcome of our participation in the **China College Engineering Practice and Innovation Competition (CCEI 2024)**. Our team designed and implemented a **Autonomous Vehicle Simulation System**, which can intelligently assess road conditions and make driving decisions based on simulated environments. The project demonstrates the feasibility of autonomous driving technology and highlights the potential of intelligent transportation systems.
+This project is the outcome of our participation in the **China College Engineering Practice and Innovation Competition (CCEI 2023)**. Our team designed and implemented a **Autonomous Vehicle Simulation System**, which can intelligently assess road conditions and make driving decisions based on simulated environments. The project demonstrates the feasibility of autonomous driving technology and highlights the potential of intelligent transportation systems.
 
 ## Project Objectives
 
@@ -26,7 +26,7 @@ This project is the outcome of our participation in the **China College Engineer
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yixuanhuangm/Autonomous-Vehicle-Simulation-CCEI-2024.git
+    git clone https://github.com/yixuanhuangm/autonomous-vehicle-simulation.git
     ```
 
 2. **Access the Competition Platform to Run**:
@@ -41,5 +41,5 @@ Contributions are welcome! If you want to help improve the project or contribute
 
 ## Acknowledgements
 
-- **China College Engineering Practice and Innovation Competition (CCEI 2024)** for the opportunity to participate and showcase our project.
+- **China College Engineering Practice and Innovation Competition (CCEI 2023)** for the opportunity to participate and showcase our project.
 - **Our Team**: Yixuan Huang, Zhen Zhang, Wentao Huang, Zeqi Yao.
