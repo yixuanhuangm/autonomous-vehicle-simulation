@@ -4,6 +4,11 @@
 
 This project is the outcome of our participation in the **China College Engineering Practice and Innovation Competition (CCEI 2023)**. Our team designed and implemented a **Autonomous Vehicle Simulation System**, which can intelligently assess road conditions and make driving decisions based on simulated environments. The project demonstrates the feasibility of autonomous driving technology and highlights the potential of intelligent transportation systems.
 
+## Screenshots
+![avs-1](https://github.com/user-attachments/assets/59a386a2-4027-4013-a712-7bd9e42bbde2)
+![avs-2](https://github.com/user-attachments/assets/d64149ab-7e60-4f8b-a0c9-94b885d45d66)
+![avs-3](https://github.com/user-attachments/assets/1795d59d-dc9b-4c7b-8237-d1c17a3f35bd)
+
 ## Project Objectives
 
 - **Intelligent Decision Making**: The system simulates a vehicle that can intelligently assess road conditions and make driving decisions using built-in sensors and algorithms.
